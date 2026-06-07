@@ -1,0 +1,10 @@
+{
+  "name": "firstup-executive-comms-readiness-map",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FirstUp executive communications readiness map for audience coverage, delivery risk, and internal narrative discipline.",
+  "scripts": {
+    "test": "node scripts/validate.js"
+  },
+  "license": "AGPL-3.0-only"
+}

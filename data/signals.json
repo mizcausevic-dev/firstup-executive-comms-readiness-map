@@ -1,0 +1,28 @@
+{
+  "name": "FirstUp Executive Comms Readiness Map",
+  "slug": "firstup-executive-comms-readiness-map",
+  "platforms": [
+    "FirstUp"
+  ],
+  "topics": [
+    "firstup",
+    "executive-comms",
+    "workforce-comms",
+    "readiness",
+    "kinetic-gain"
+  ],
+  "signals": [
+    {
+      "lane": "exposure",
+      "score": 72
+    },
+    {
+      "lane": "savings",
+      "score": 61
+    },
+    {
+      "lane": "investment",
+      "score": 66
+    }
+  ]
+}
