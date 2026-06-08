@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mizcausevic-dev.github.io/firstup-executive-comms-readiness-map/sitemap.xml
